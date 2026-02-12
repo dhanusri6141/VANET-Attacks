@@ -4,3 +4,4 @@ pandas
 numpy
 scikit-learn
 ngboost==0.5.8
+seaborn
