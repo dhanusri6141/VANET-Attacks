@@ -18,7 +18,7 @@ lifelines==0.30.1
 MarkupSafe==3.0.3
 matplotlib==3.10.8
 narwhals==2.16.0
-ngboost==0.5.6
+ngboost==0.5.8
 numpy==2.4.2
 packaging==26.0
 pandas==2.3.3
